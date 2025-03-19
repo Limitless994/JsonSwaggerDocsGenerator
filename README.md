@@ -8,7 +8,7 @@ This project is a Python script that generates API documentation from a Swagger 
 - Supports various output formats
 
 ## Requirements
-- Python 3.x
+- Python 3.12.6
 - Required dependencies (install via `requirements.txt`):
   ```bash
   pip install -r requirements.txt
